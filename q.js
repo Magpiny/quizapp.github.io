@@ -354,3 +354,5 @@ restart.onclick = () => {
 
 //QuitApp
 quit.addEventListener("click", () => window.location.reload());
+
+//I enjoyed working on every piece and bit of this app. It has some bugs here and there but it works for now
